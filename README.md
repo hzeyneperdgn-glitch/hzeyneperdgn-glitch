@@ -23,5 +23,7 @@
 </p>
 
 <p align="right">
-  <img width="100" height="100" alt="Zeynep_animated" src="https://github.com/user-attachments/assets/8a01fd17-e530-43dc-9076-15b1351025b9" />
+  <img width="100" height="100" alt="hanife_animated" src="https://github.com/user-attachments/assets/1f72421c-0210-4efc-a713-a7937bbdcfae" />
+
 </p>
+
