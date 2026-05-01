@@ -23,4 +23,6 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hzeyneperdgn-glitch?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-zeynep-erdoğan-517537388?utm_source=share_via&utm_content=profile&utm_medium=member_android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-zeynep-erdoğan-517537388?utm_source=share_via&utm_content=profile&utm_medium=member_android_app)                     
+                                               <img width="100" height="100" alt="Zeynep_animated" src="https://github.com/user-attachments/assets/8a01fd17-e530-43dc-9076-15b1351025b9" />
+
